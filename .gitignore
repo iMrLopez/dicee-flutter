@@ -9,7 +9,7 @@
 .buildlog/
 .history
 .svn/
-
+flutter_export_environment.sh
 # IntelliJ related
 *.iml
 *.ipr
